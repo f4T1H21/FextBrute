@@ -32,6 +32,6 @@ Didn't need to use ```-d``` or ```--dot```  flag, because we had already had our
 But in this example, we needed to specify ```-d``` or ```--dot``` option in order to make script put a dot before each word in wordlist.
 ![ss2](https://github.com/f4T1H21/FextBrute/blob/main/ss2.png)
 
-Constructive feedback is appreciated, thanks!
+Thanks to mantaXOR for helping me with his energy, btw constructive feedback is appreciated!
 
-*Written by f4T1H*
+***Written by f4T1H***
