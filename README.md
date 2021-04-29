@@ -1,14 +1,12 @@
 # FextBrute
-<p>File extension Brute</p>
+*File extension Brute*
 
-A brute force tool to find out what types of files with different extensions are allowed to be uploaded to a web server.
+***A brute force tool to find out what types of files with different extensions are allowed to be uploaded to a web server.***
 
-### Download
+### Getting Started
 ```bash
 git clone https://github.com/f4T1H21/FextBrute.git
-```
-### Run
-```bash
+cd FextBrute
 chmod +x fextbrute.py
 python3 ./fextbrute.py
 ```
@@ -34,7 +32,6 @@ Didn't need to use ```-d``` or ```--dot```  flag, because we had already had our
 But in this example, we needed to specify ```-d``` or ```--dot``` option in order to make script put a dot before each word in wordlist.
 ![ss2](https://github.com/f4T1H21/FextBrute/blob/main/ss2.png)
 
-<p>Thanks.</p>
-<p>Constructive feedback is appreciated!</p>
+Constructive feedback is appreciated, thanks!
 
-Written by f4T1H
+*Written by f4T1H*
