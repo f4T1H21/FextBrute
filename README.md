@@ -12,7 +12,7 @@ chmod +x fextbrute.py
 ```
 ### Usage
 ```
-Usage: python3 fextbrute.py <URL> <wordlist> [OPTIONS]
+Usage: ./fextbrute.py <URL> <wordlist> [OPTIONS]
 FLAGS:
     -h, --help    Print this help menu and exit.
     -v, --version Print version information and exit.
@@ -22,8 +22,8 @@ ARGUMENTS:
     <URL>      Web page to upload files
     <wordlist> File extenions wordlist
 EXAMPLES:
-    python3 fextbrute.py http://127.0.0.1:88/wiki/upload.php wordlist.txt
-    python3 fextbrute.py http://example.com/fileupload.php wordlist.txt -d
+    ./fextbrute.py http://127.0.0.1:88/wiki/upload.php wordlist.txt
+    ./fextbrute.py http://example.com/fileupload.php wordlist.txt -d
 ```
 ### Example ss
 Didn't need to use ```-d``` or ```--dot```  flag, because we had already had our dots before each word in wordlist.
