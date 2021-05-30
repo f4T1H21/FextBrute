@@ -8,7 +8,7 @@
 git clone https://github.com/f4T1H21/FextBrute.git
 cd FextBrute
 chmod +x fextbrute.py
-python3 ./fextbrute.py
+./fextbrute.py --help
 ```
 ### Usage
 ```
