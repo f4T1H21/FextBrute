@@ -1,8 +1,8 @@
+#!/usr/bin/python3
 ###                     ب                      ###
 ## File upload extension brute force tool by f4T1H.
 ## See https://github.com/f4T1H21/FextBrute
 ## Constructive feedback is appreciated.
-#!/usr/bin/python3
 import sys
 import os
 import requests
